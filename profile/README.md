@@ -14,13 +14,15 @@ We build the **OpenCodeWEB OS** — an open, AI-native operating system for the 
 | [**GDBx**](https://github.com/OpenCodeWEB/GDBX) | **Global Decentralized DataBase Sync** — `*.gdbx` sovereign namespace, DID + PoW, CRDT sync, hybrid mesh (WS/Nostr/WebRTC), pool, TLD, Dashboard. | `gdbx.pages.dev` |
 | [**DSGx**](https://github.com/OpenCodeWEB/DSGx) | **Decentralized Support Gateway** — `dsgx.pages.dev/<username>` — support any developer with crypto or card, direct to Web3 wallet. | `dsgx.pages.dev` |
 | [**GDMx**](https://github.com/OpenCodeWEB/GDMx) | **Global Decentralized Money Transaction Gateway** — universal, free, MIT — 500+ wallets, 7 on-ramps, 8 networks, 0% fee, gasless. | `gdmx.pages.dev` |
+| [**MCP**](https://github.com/OpenCodeWEB/MCP) | **Model Context Protocol Server** — 8 tools bridging AI assistants to the sovereign mesh (sync, names, keys, pay, support). | `npm i @opencodeweb/mcp` |
+| [**A2A**](https://github.com/OpenCodeWEB/A2A) | **Agent-to-Agent Protocol** — Google A2A JSON-RPC agent with 4 live skills (`gdbx-sync`, `gdbx-names`, `gdmx-pay`, `dsgx-support`). | `:8788` |
 | [**GunX**](https://github.com/OpenCodeWEB/GunX) | Serverless GunDB relay — realtime P2P sync, offline-first, SEA end-to-end encryption, decentralized transport mesh. | `gunx.pages.dev` |
 | [**UI**](https://github.com/OpenCodeWEB/UI) | Enterprise-grade OpenCode ecosystem plugin and hybrid infrastructure manager. | — |
 | [**CommunityHub**](https://github.com/OpenCodeWEB/CommunityHub) | Community hub, discussions, and ecosystem coordination. | — |
 
 ## More Repositories
 
-`AG` · `ABsNOTE` · `Roadmap` · `Worker` · `Servers` · `DB` · `Gun` · `Gun-dev` · `Gun-serverless` · `OpenClaw` · `SandBox` · `js.org` · `OpenCode` · `GDBx` · `DSGx` · `GDMx` · `DoMain` · `xVoice` · `PRD` · `Flutter` · `DotNet` · `Inkscape` · `GIMP` · `Model` · `AddonHub` · `OpenNotebook` · `TeamSwarm` · `GitHubApp` · `AnyThingLLM` · `FFmPeg` · `KdenLive`
+`AG` · `ABsNOTE` · `Roadmap` · `Worker` · `Servers` · `DB` · `Gun` · `Gun-dev` · `Gun-serverless` · `OpenClaw` · `SandBox` · `js.org` · `OpenCode` · `GDBx` · `DSGx` · `GDMx` · `MCP` · `A2A` · `DoMain` · `xVoice` · `PRD` · `Flutter` · `DotNet` · `Inkscape` · `GIMP` · `Model` · `AddonHub` · `OpenNotebook` · `TeamSwarm` · `GitHubApp` · `AnyThingLLM` · `FFmPeg` · `KdenLive`
 
 > All repos use `Dev` as default branch — always.
 
